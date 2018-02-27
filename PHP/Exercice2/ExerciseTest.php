@@ -5,12 +5,12 @@ class ExerciseTest extends TestCase
 {
     public function testSalting()
     {
-        $password = 'azertyqwerty';
+        $password = 'azertyqwert';
         $salt = 'salt';
         
         require 'exercise.php';
         
-        $this->assertEquals('azertysaltqwerty', $saltedPassword);
+        $this->assertEquals('azertysaltqwert', $saltedPassword);
     }
 }
 
