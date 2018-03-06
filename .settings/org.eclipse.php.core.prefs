@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
 >>>>>>>=PHP_exercise_4
@@ -5,3 +6,7 @@ eclipse.preferences.version=1
 include_path=0;/wf
 phpVersion=php7.1
 useShortTags=true
+=======
+eclipse.preferences.version=1
+include_path=0;/wf
+>>>>>>> PHP_exercise_7
